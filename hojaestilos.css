@@ -1,0 +1,61 @@
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+}
+
+img.escudo {
+	width: 100px;
+	height: 100px;
+	left: 100%;
+}
+
+
+p {
+	text-align: justify;
+}
+
+h2 {
+	text-align: center;
+}
+
+li {
+	text-align: justify;
+}
+
+li.inicio {
+    display: inline-block;
+    padding: 40px;
+
+}
+
+.imagen {
+    
+	position: relative;
+	display: inline-block;
+}
+
+.titulo { 
+
+	position: absolute;
+	top: 50px;
+	left: 7%;
+	font-size: 22px;
+	color: black;
+	 text-shadow: 3px  0px 0px yellow,
+               0px  3px 0px yellow,
+              -3px  0px 0px yellow,
+               0px -3px 0px yellow;
+ }
+
+ body {
+
+ 	margin-top: 20px;
+ 	background-image: url("https://i.pinimg.com/originals/55/64/8c/55648c0f5ecff09f2508d10d94650a49.jpg");
+ }
+
+ img.rounded-circle {
+
+ 	border: 5px groove; 
+ 	color: yellow;
+ 	margin: 15px 0;
+ }
